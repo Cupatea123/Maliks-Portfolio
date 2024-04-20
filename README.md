@@ -1,4 +1,4 @@
-# Data ANalyst
+# Data Analyst
 
 ### Edication
 Business Information Systems, Business Analytics
